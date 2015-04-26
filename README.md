@@ -7,4 +7,4 @@ Als Beispiel diese Seite: die Seite kann auch mit seiner ID als www.e-spin.de/23
 Eingesetzt werden kann die Erweiterung, wenn bei kleineren Programmierungen es leichter mit der Seiten-ID zu handhaben ist, aber die Anzeige für den User dennoch mit dem Alias erfolgen soll.
 
 
-Mehr zu Installation und Beispielen für form-scr-default unter http://www.e-spin.de/id2alias.html
+Mehr zu id2alias unter http://www.e-spin.de/id2alias.html
